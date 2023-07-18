@@ -8,6 +8,7 @@ Esta es una plantilla de proyecto diseñada para:
   *  [Entrada de Blog (en inglés)](https://www.baeldung.com/junit-5-migration) 
   *  [Entrada de Blog (en español)](https://www.paradigmadigital.com/dev/nos-espera-junit-5/)
 * Maven 3.8.1 o superior
+* JPA 2.1, Hibernate y HSQLDB. Para más información sobre la integración con JPA/Hiberante, ver [acá](https://docs.google.com/document/d/1dYvrVLRbFE9qwuKj5biz9oRBaRzj-K6ujIKOXNan02s/edit#)
 
 ## Ejecutar tests
 
